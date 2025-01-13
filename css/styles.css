@@ -125,6 +125,7 @@ body {
     color: #434455;
   }
   .title-three {
+    background-color: #ffffff;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -134,7 +135,6 @@ body {
     color: #2e2f42;
   }
   .section-portfolio-title {
-    background-color: #ffffff;
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
